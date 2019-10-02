@@ -1,0 +1,6 @@
+This was built for development, Login screen.
+No unit test(!) sorry
+I learned about unit test and it's great , I understand that it's really important for the development process.
+I definitely will invest time to learn it and implement in my future code.
+Also  I tried a much as possible to comment my code, I believe it's written well and easy to understand.
+Its already connect to mongodb and the user: idea password: idea.  ->  npm run dev

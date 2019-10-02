@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://brad:brad123@cluster0-wixly.mongodb.net/UdemySocialPlatform?retryWrites=true&w=majority",
+  "jwtSecret": "mysecttoken"
+}
